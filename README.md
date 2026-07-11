@@ -8,11 +8,11 @@
 
 ### TermuxC
 ### Also known as TermuxCopy,
-Makes copying in termux using python effortless, and bloat free, offers a pip package and cli tool. and most importantly requires **Zero** aditional packages to function
+Makes copying in termux using python effortless, and bloat free, offers a pip package and cli tool. and most importantly requires **Zero** aditional packages to function.
 View the repository [Here](https://github.com/Ruizennis/TermuxC)!
 ### TermuxUO
 ### Also known as TermuxUrlOpener
-Allows opening urls in termux without any dependencys using android managment offering a pip package and cli tool
+Allows opening urls in termux without any dependencys using android managment offering a pip package and cli tool.
 View the repository [Here](https://github.com/Ruizennis/TermuxUO)!
 
 ## Uncatagorised
