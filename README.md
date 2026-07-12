@@ -15,7 +15,11 @@ View the repository [Here](https://github.com/Ruizennis/TermuxC)!
 Allows opening urls in termux without any dependencys using android managment offering a pip package and cli tool.
 View the repository [Here](https://github.com/Ruizennis/TermuxUO)!
 
+### Termux-Twine-Build
+### Also known as TTB
+TTB is a pip package that when installed installs dependencys required for twine and build to run without the rust packages like nh3 that are buggy on termux. View the repository [Here](https://github.com/Ruizennis/Termux-Twine-Build)!
 ## Uncatagorised
+
 ### EasyCurl
 Makes constructing curl requests with multiple flags simple.
 View the repository [Here](https://github.com/Ruizennis/EasyCurl)!
