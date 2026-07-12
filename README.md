@@ -2,7 +2,7 @@
 ## I want to learn python for app development and cybersecurity.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruizennis&theme=github_dark
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ruizennis&theme=github_dark
 
 ### Here are some projects I've worked on organised neatly into sections.
 
