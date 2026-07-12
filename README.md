@@ -27,7 +27,7 @@ ___
 ## Uncatagorised
 
 ### EasyCurl
-Makes constructing curl requests with multiple flags simple.
+> Makes constructing curl requests with > multiple flags simple.
 View the repository [Here](https://github.com/Ruizennis/EasyCurl)!
 ___
 
