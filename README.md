@@ -29,6 +29,6 @@ ___
 ### EasyCurl
 Makes constructing curl requests with multiple flags simple.
 View the repository [Here](https://github.com/Ruizennis/EasyCurl)!
-
+___
 
 # All My Public Repositorys Use The [Mit License](https://opensource.org/license/mit)
