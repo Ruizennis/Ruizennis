@@ -27,8 +27,8 @@ ___
 
 ### Termux-Twine-Build
 ### Also known as TTB
-TTB is a pip package that when installed installs dependencys required for twine and build to run without the rust packages like nh3 that are buggy on termux. View the repository [Here](https://github.com/Ruizennis/Termux-Twine-Build)!
-
+Pip package that installs dependencies required for twine and build to run without installing rust based dependecies to ensure compatability with termux.
+View the repository [Here](https://github.com/Ruizennis/Termux-Twine-Build)
 ___
 
 ## Uncatagorised
@@ -37,6 +37,10 @@ ___
 Makes constructing curl requests with multiple flags simple.
 View the repository [Here](https://github.com/Ruizennis/EasyCurl)!
 
+### Write to file
+#### Also known as wtf
+Lightweight zero dependecies tool that simply writes piped data to a file, can be used with cli tools without native file output.
+View the repository [Here](https://github.com/Ruizennis/Writetofile)
 ___
 
 # All My Public Repositorys Use The [Mit License](https://opensource.org/license/mit)
