@@ -33,10 +33,6 @@ ___
 
 ## Uncatagorised
 
-### EasyCurl
-Makes constructing curl requests with multiple flags simple.
-View the repository [Here](https://github.com/Ruizennis/EasyCurl)!
-
 ### Write to file
 #### Also known as wtf
 Lightweight zero dependecies tool that simply writes piped data to a file, can be used with cli tools without native file output.
