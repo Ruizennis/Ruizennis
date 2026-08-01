@@ -1,5 +1,5 @@
-# Hello!! 👋
-## I want to learn python for app development and cybersecurity.
+# Hello!! ฅ (˵◝ ⩊  ◜˵マ
+## I code mainly cli tools using termux and acode, I also want to learn python for cybersecurity!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruizennis&theme=github_dark)
 
@@ -7,7 +7,7 @@
 
 ### Here are some projects I've worked on organised neatly into sections.
 
-## Termux
+## Cli tools
 
 ___
 
@@ -25,18 +25,26 @@ View the repository [Here](https://github.com/Ruizennis/TermuxUO)!
 
 ___
 
-### Termux-Twine-Build
-### Also known as TTB
-Pip package that installs dependencies required for twine and build to run without installing rust based dependecies to ensure compatability with termux.
-View the repository [Here](https://github.com/Ruizennis/Termux-Twine-Build)
-___
+### Clishortener
+#### Inspired by [Pyshorteners](https://github.com/ellisonleao/pyshorteners)!
+Clishortener is a lightweight, feature-rich CLI tool able to shorten links using 12+ services—with zero configuration required. 
+View the repository [Here](https://github com/Ruizennis/Clishortener)
 
-## Uncatagorised
+---
 
 ### Write to file
 #### Also known as wtf
 Lightweight zero dependecies tool that simply writes piped data to a file, can be used with cli tools without native file output.
 View the repository [Here](https://github.com/Ruizennis/Writetofile)
+___
+
+## Uncatagorised
+
+### Termux-Twine-Build
+### Also known as TTB
+Pip package that installs dependencies required for twine and build to run without installing rust based dependecies to ensure compatability with termux.
+View the repository [Here](https://github.com/Ruizennis/Termux-Twine-Build)
+
 ___
 
 # All My Public Repositorys Use The [Mit License](https://opensource.org/license/mit)
