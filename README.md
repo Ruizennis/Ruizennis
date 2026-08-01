@@ -28,7 +28,7 @@ ___
 ### Clishortener
 #### Inspired by [Pyshorteners](https://github.com/ellisonleao/pyshorteners)!
 Clishortener is a lightweight, feature-rich CLI tool able to shorten links using 12+ services—with zero configuration required. 
-View the repository [Here](https://github com/Ruizennis/Clishortener)
+View the repository [Here](https://github.com/Ruizennis/Clishortener)
 
 ---
 
