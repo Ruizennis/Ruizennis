@@ -1,5 +1,5 @@
 # Hello!! ฅ (˵◝ ⩊  ◜˵マ
-## I mainly make cli tools using termux and acode, I also want to learn python for cybersecurity!
+## I mainly make cli tools using termux and acode, I also want to learn cybersecurity!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruizennis&theme=github_dark)
 
