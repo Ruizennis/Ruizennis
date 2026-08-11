@@ -18,13 +18,6 @@ View the repository [Here](https://github.com/Ruizennis/TermuxC)!
 
 ___
 
-### TermuxUO
-### Also known as TermuxUrlOpener
-Allows opening urls in termux without any dependencys using android managment offering a pip package and cli tool.
-View the repository [Here](https://github.com/Ruizennis/TermuxUO)!
-
-___
-
 ### Clishortener
 #### Inspired by [Pyshorteners](https://github.com/ellisonleao/pyshorteners)!
 Clishortener is a lightweight, feature-rich CLI tool able to shorten links using 12+ services—with zero configuration required. 
