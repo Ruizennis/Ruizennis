@@ -1,9 +1,12 @@
 # Hello!! ฅ (˵◝ ⩊  ◜˵マ
-## I mainly make cli tools using termux and acode, I also want to learn cybersecurity!
+## I mainly make cli tools using termux and acode, I also want to do cybersecurity or networking in the future!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruizennis&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ruizennis&theme=github_dark)
+
+> [!WARNING]
+> If you use any of my tools just keep in mind I'm a noob at programming :)
 
 ### Here are some projects I've worked on organised neatly into sections.
 
