@@ -15,8 +15,7 @@
 ___
 
 ### TermuxC
-### Also known as TermuxCopy,
-Makes copying in termux using python effortless, and bloat free, offers a pip package and cli tool. and most importantly requires **Zero** aditional packages to function.
+Makes copying small to medium sized files in termux effortless, and bloat free, using python; offers a pip package and cli tool. and most importantly requires **Zero** non-standard packages to function.
 View the repository [Here](https://github.com/Ruizennis/TermuxC)!
 
 ___
@@ -29,7 +28,6 @@ View the repository [Here](https://github.com/Ruizennis/Clishortener)
 ---
 
 ### Write to file
-#### Also known as wtf
 Lightweight zero dependecies tool that simply writes piped data to a file, can be used with cli tools without native file output.
 View the repository [Here](https://github.com/Ruizennis/Writetofile)
 ___
