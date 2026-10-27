@@ -27,15 +27,9 @@ View the repository [Here](https://github.com/Ruizennis/Clishortener)
 
 ---
 
-### Write to file
-Lightweight zero dependecies tool that simply writes piped data to a file, can be used with cli tools without native file output.
-View the repository [Here](https://github.com/Ruizennis/Writetofile)
-___
-
 ## Uncatagorised
 
 ### Termux-Twine-Build
-### Also known as TTB
 Pip package that installs dependencies required for twine and build to run without installing rust based dependecies to ensure compatability with termux.
 View the repository [Here](https://github.com/Ruizennis/Termux-Twine-Build)
 
